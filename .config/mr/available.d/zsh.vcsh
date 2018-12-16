@@ -1,0 +1,5 @@
+[$HOME/.config/vcsh/repo.d/zsh.git]
+checkout = vcsh clone git@github.com:lucyshaw/config-zsh.git zsh
+
+[$HOME/.config/mr/repo.d/zsh-git-prompt]
+checkout = git clone git@github.com:drbild/zsh-git-prompt.git zsh-git-prompt
